@@ -11,8 +11,8 @@ const Rightbar = () => {
         </div>
         <div className={styles.text}>
           <span className={styles.notification}>🔥 Available Now</span>
-          <h3 className={styles.title}>It's title!</h3>
-          <span className={styles.subtitle}>It's subtitle</span>
+          <h3 className={styles.title}>Its title!</h3>
+          <span className={styles.subtitle}>Its subtitle</span>
           <p className={styles.desc}>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad commodi
             earum repudiandae voluptatibus asperiores cum vero, mollitia
@@ -27,8 +27,8 @@ const Rightbar = () => {
       <div className={styles.item}>
         <div className={styles.text}>
           <span className={styles.notification}>🚀Coming Soon</span>
-          <h3 className={styles.title}>It's title!</h3>
-          <span className={styles.subtitle}>It's subtitle</span>
+          <h3 className={styles.title}>Its title!</h3>
+          <span className={styles.subtitle}>Its subtitle</span>
           <p className={styles.desc}>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad commodi
             earum repudiandae voluptatibus asperiores cum vero, mollitia
