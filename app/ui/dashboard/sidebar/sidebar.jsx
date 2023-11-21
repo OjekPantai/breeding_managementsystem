@@ -42,17 +42,17 @@ const menuItems = [
     ],
   },
   {
-    title: "Analystic",
+    title: "Mitra",
     list: [
       {
-        title: "Revenue",
-        path: "/dashboard/revenue",
-        icon: <MdWork />,
+        title: "Pendapatan Mitra",
+        path: "/dashboard/mitra/income",
+        icon: <MdAttachMoney />,
       },
       {
-        title: "Reports",
-        path: "/dashboard/reports",
-        icon: <MdAnalytics />,
+        title: "Pengeluaran Mitra",
+        path: "/dashboard/mitra/outcome",
+        icon: <MdAttachMoney />,
       },
       {
         title: "Teams",

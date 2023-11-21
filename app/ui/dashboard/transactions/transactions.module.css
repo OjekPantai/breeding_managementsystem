@@ -36,12 +36,9 @@
   color: white;
 }
 
-.pending {
-  background-color: #f7cb7375;
+.income {
+  background-color: rgba(35, 138, 35, 0.8);
 }
-.done {
-  background-color: #afd6ee75;
-}
-.cancelled {
-  background-color: #f7737375;
+.outcome {
+  background-color: rgba(219, 20, 60, 0.8);
 }
